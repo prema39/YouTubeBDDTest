@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.532938">
+<testcase classname="Youtube channel validation test" name="Youtube channel validation test" time="13.532938">
+<system-out><![CDATA[Given open the browser with url.............................................passed
+When search dua lipa songs playlist.........................................passed
+When click on channel name..................................................passed
+Then validate channel title.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
